@@ -1,1 +1,1 @@
-Documentation Engine &middot; [![npm package](https://img.shields.io/npm/v/papyro?color=green&label=npm&style=flat-square)](https://www.npmjs.com/package/papyro)
+# Documentation Engine &middot; [![npm package](https://img.shields.io/npm/v/papyro?color=green&label=npm&style=flat-square)](https://www.npmjs.com/package/papyro)
