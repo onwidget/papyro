@@ -1,0 +1,39 @@
+{
+  "name": "papyro",
+  "version": "0.0.1",
+  "description": "Documentation Engine",
+  "author": {
+    "name": "onWidget",
+    "email": "contact@onwidget.com",
+    "url": "https://github.com/onwidget"
+  },
+  "keywords": [
+    "documentation",
+    "docs",
+    "docs-engine",
+    "mdx",
+    "mdx2",
+    "react",
+    "markdown"
+  ],
+  "homepage": "https://github.com/onwidget/papyro",
+  "bugs": {
+    "url": "https://github.com/onwidget/papyro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onwidget/papyro.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
